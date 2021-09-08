@@ -7,8 +7,8 @@ const http = require('http');
 var lastestVersion = "1.0.8";
 app.set('trust proxy', true)
 
-app.listen(88, () => {
-    console.log("Listening on port 88.");
+app.listen(26888, () => {
+    console.log("Listening on port 26888.");
 });
 
 app.get("/version", async (req, res, next) => {
