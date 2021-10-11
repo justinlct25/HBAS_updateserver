@@ -1,0 +1,29 @@
+{
+    "name": "8sep21_updateserver",
+    "version": "1.0.0",
+    "main": "node.js",
+    "type": "module",
+    "dependencies": {
+        "express": "^4.17.1",
+        "http": "^0.0.1-security",
+        "node-fetch": "^3.0.0",
+        "request": "^2.88.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "ts-node node.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/justinlctstudy96/HBAS_updateserver.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/justinlctstudy96/HBAS_updateserver/issues"
+    },
+    "homepage": "https://github.com/justinlctstudy96/HBAS_updateserver#readme",
+    "keywords": [],
+    "description": ""
+}
